@@ -1,0 +1,14 @@
+layout_spectrum: 0.1586831
+typography_spectrum: 0.2992831
+color:
+  saturation: 0.3548482
+  brandStrength: 0.3847633
+  lightness: 0.6505376
+  rhythmicContrast: 0.9980863
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: FlyByMarketing
