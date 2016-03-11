@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2992831
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.7150537
+  saturation: 0.7831541
   brandStrength: 0.3847633
-  lightness: 0.5806451
+  lightness: 0.7598566
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  rhythmicContrast: 0.7831541
-layout_spectrum: 0.1586831
+  rhythmicContrast: 0.7275985
+typography_spectrum: 0.2992831
+layout_spectrum: 0.9964158
 name: FlyByMarketing
